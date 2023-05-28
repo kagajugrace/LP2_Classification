@@ -2,9 +2,9 @@
 *short project description*
 
 ## Summary
-| Code      | Name        | Published Article | 
+| Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Classification |  [Best article of the world](/) |
+| LP2 | Magical Machine Learning |  [Best article of the world](/) | [Best app of the world](/) |
 
 ## Project Description
 ...
@@ -17,4 +17,6 @@
 
 ## Author
 Marie Grace KAGAJU
+
+
 
